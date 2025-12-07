@@ -1,2 +1,12 @@
 @define-color foreground #222222;
 @define-color background #FAFAFA;
+
+/* Replace Omarchy logo with Hylde logo */
+#custom-omarchy {
+  font-size: 0px;
+  background-image: url("hylde-waybar-icon.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 16px 16px;
+  min-width: 20px;
+}
