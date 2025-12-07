@@ -1,2 +1,14 @@
 @define-color foreground #222222;
 @define-color background #FAFAFA;
+
+#workspaces button.active {
+  background-color: @foreground;
+  border-radius: 12px;
+  padding: 2px 8px;
+  margin: 6px 0;
+}
+
+#workspaces button.active * {
+  all: unset;
+  color: @background;
+}
