@@ -1,0 +1,86 @@
+# Hylde Light theme for btop
+# by jimmitjoo
+
+# Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
+
+# Main background, empty for terminal default
+theme[main_bg]="#FAFAFA"
+
+# Main text color
+theme[main_fg]="#555555"
+
+# Title color for boxes
+theme[title]="#222222"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#F45B69"
+
+# Background color of selected items
+theme[selected_bg]="#FCE3E8"
+
+# Foreground color of selected items
+theme[selected_fg]="#F45B69"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#999999"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#555555"
+
+# Misc colors for processes box including mini cpu graphs
+theme[proc_misc]="#45B69C"
+
+# Cpu box outline color
+theme[cpu_box]="#F45B69"
+
+# Memory/disks box outline color
+theme[mem_box]="#F45B69"
+
+# Net up/down box outline color
+theme[net_box]="#F45B69"
+
+# Processes box outline color
+theme[proc_box]="#F45B69"
+
+# Box divider line and small boxes line color
+theme[div_line]="#E6E4E4"
+
+# Temperature graph colors
+theme[temp_start]="#45B69C"
+theme[temp_mid]="#D0A215"
+theme[temp_end]="#F45B69"
+
+# CPU graph colors
+theme[cpu_start]="#45B69C"
+theme[cpu_mid]="#D0A215"
+theme[cpu_end]="#F45B69"
+
+# Mem/Disk free meter
+theme[free_start]="#45B69C"
+theme[free_mid]=""
+theme[free_end]="#3A9A8A"
+
+# Mem/Disk cached meter
+theme[cached_start]="#7C82E7"
+theme[cached_mid]=""
+theme[cached_end]="#6B71DC"
+
+# Mem/Disk available meter
+theme[available_start]="#D0A215"
+theme[available_mid]=""
+theme[available_end]="#AD8301"
+
+# Mem/Disk used meter
+theme[used_start]="#F45B69"
+theme[used_mid]=""
+theme[used_end]="#E04A5A"
+
+# Download graph colors
+theme[download_start]="#7C82E7"
+theme[download_mid]="#6B71DC"
+theme[download_end]="#5B61C6"
+
+# Upload graph colors
+theme[upload_start]="#CE5D97"
+theme[upload_mid]="#A02F6F"
+theme[upload_end]="#8A2760"

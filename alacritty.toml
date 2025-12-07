@@ -1,0 +1,33 @@
+# Hylde Light theme for Alacritty
+
+[colors.primary]
+background = "#FAFAFA"
+foreground = "#222222"
+
+[colors.cursor]
+text = "#FAFAFA"
+cursor = "#F45B69"
+
+[colors.selection]
+text = "#222222"
+background = "#FCE3E8"
+
+[colors.normal]
+black = "#222222"
+red = "#F45B69"
+green = "#45B69C"
+yellow = "#D0A215"
+blue = "#7C82E7"
+magenta = "#CE5D97"
+cyan = "#3AA99F"
+white = "#FAFAFA"
+
+[colors.bright]
+black = "#555555"
+red = "#E04A5A"
+green = "#3A9A8A"
+yellow = "#AD8301"
+blue = "#6B71DC"
+magenta = "#A02F6F"
+cyan = "#24837B"
+white = "#FFFFFF"

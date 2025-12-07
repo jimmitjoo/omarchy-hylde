@@ -1,0 +1,9 @@
+#osd {
+    background-color: #FAFAFA;
+    color: #222222;
+    border-color: #F45B69;
+}
+
+#osd levelbar block.filled {
+    background-color: #F45B69;
+}
