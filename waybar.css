@@ -1,5 +1,5 @@
 @define-color foreground #222222;
-@define-color background #FAFAFA;
+@define-color background transparent;
 
 #workspaces button.active {
   background-color: @foreground;
